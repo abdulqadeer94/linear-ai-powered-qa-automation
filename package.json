@@ -1,1 +1,18 @@
-
+{
+  "name": "linear-ai-powered-qa-automation",
+  "version": "1.0.0",
+  "description": "AI-powered QA automation framework for Linear using Playwright, TypeScript, and GitHub Actions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:ui": "npx playwright test tests/ui",
+    "test:api": "npx playwright test tests/api"
+  },
+  "author": "Abdul Qadeer",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.50.0",
+    "typescript": "^5.6.3",
+    "ts-node": "^10.9.2"
+  }
+}
