@@ -1,1 +1,67 @@
 
+---
+
+## 🚀 Features
+
+### ✔ Playwright E2E Test Automation  
+Covers core Linear flows:
+- Login  
+- Create Issue  
+- Update Issue  
+- Move Issue Across Boards  
+- Delete Issue  
+
+### ✔ API Automation (GraphQL)  
+- Create Issue  
+- Update Issue  
+- Delete Issue  
+- Search Queries  
+
+### ✔ AI Modules  
+- **AI Test Case Generator**: Convert user flows → structured test cases  
+- **AI Bug Report Generator**: Convert screenshots/logs → perfect bug reports  
+
+### ✔ GitHub Actions CI  
+- Auto-run full test suite on every push & PR  
+- HTML + video reports  
+- Test artifacts saved  
+- Slack/email notifications (optional)
+
+---
+
+## 🧠 Tech Stack
+
+- Playwright (TypeScript)
+- Node.js  
+- GraphQL (Linear API)
+- GitHub Actions  
+- AI LLM Integration  
+
+---
+
+## 📈 Roadmap
+
+- [ ] Add visual regression testing  
+- [ ] Add AI-driven risk analysis  
+- [ ] Add performance checks  
+- [ ] Add full Linear workspace coverage  
+- [ ] Build public documentation site
+
+---
+
+## 🤝 Contribution
+
+This repo is designed as a **portfolio project** for showcasing advanced QA engineering with AI.  
+Feel free to fork and experiment.
+
+---
+
+## 📬 Contact
+
+If you’re a SaaS founder and want:
+- end-to-end test automation  
+- AI-augmented QA  
+- CI/CD setup  
+- or a full QA partner  
+
+You can message me directly.
